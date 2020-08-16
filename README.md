@@ -8,8 +8,6 @@ Programming Language : Servlet/JSP/Bootstrap/Jquery/Ajax/JavaScript/MySQL-8
 
 IDE Tool : Eclipse IDE
 
-Apache Tomcat 8.0
-
 Database : MySQL-8.0
 
 Database location : StudentAttendanceSystem/WebContent/Database/studentattendance.sql
