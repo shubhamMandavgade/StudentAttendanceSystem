@@ -1,6 +1,6 @@
 # StudentAttendanceSystem
 
-project Type : Web Application
+Project Type : Web Application
 
 Platform : JSP
 
