@@ -1,11 +1,11 @@
 # StudentAttendanceSystem
 
-project Type :Web Application
+project Type : Web Application
 
-Platform :JSP
+Platform : JSP
 
-Programming Language :Servlet/JSP/Bootstrap/Jquery/Ajax/JavaScript/MySQL-8
+Programming Language : Servlet/JSP/Bootstrap/Jquery/Ajax/JavaScript/MySQL-8
 
-IDE Tool :Eclipse Neon && Let us Eclipse Versio
+IDE Tool : Eclipse IDE
 
-Database :MySQL-8.0
+Database : MySQL-8.0
