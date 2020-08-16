@@ -17,7 +17,7 @@ import java.util.UUID;
  */
 @WebServlet("/AdminLogin")
 public class AdminLogin extends HttpServlet {
-
+//a
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		String uname = request.getParameter("uname");
