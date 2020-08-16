@@ -23,3 +23,15 @@ ADMIN DASHBOARD
 
 ![Capture](https://user-images.githubusercontent.com/42516048/90332458-9b531780-dfda-11ea-9d79-1bec42080ae3.PNG)
 
+
+
+STUDENT LOGIN
+
+
+
+
+STUDENT DASHBOARD
+
+![Capture3](https://user-images.githubusercontent.com/42516048/90332642-34366280-dfdc-11ea-9062-f2f94afcf6da.PNG)
+
+
