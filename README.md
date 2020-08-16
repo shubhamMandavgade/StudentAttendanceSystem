@@ -27,6 +27,7 @@ ADMIN DASHBOARD
 
 STUDENT LOGIN
 
+![Capture4](https://user-images.githubusercontent.com/42516048/90332680-837c9300-dfdc-11ea-99e7-26e35e41d63d.PNG)
 
 
 
